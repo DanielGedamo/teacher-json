@@ -1,0 +1,24 @@
+ {"Techer":[
+    {
+        "firstName":"Mazal",
+        "lastName": "Ashnafa",
+        "phonNumde":"0525381648"
+    },
+    {
+        "firstName":"ronit",
+        "lastName": "dor",
+        "phonNumde":"054223344"
+    },
+       {
+        "firstName":"gila",
+        "lastName": "mazor",
+        "phonNumde":"044553321"
+    },    {
+        "firstName": "orna",
+        "lastName": "shlom",
+        "phonNumde":"054112233"
+    }
+    ]
+
+
+ }

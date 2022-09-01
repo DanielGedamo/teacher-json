@@ -1,19 +1,24 @@
  {"Techer":[
     {
+        "picture": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "firstName":"Mazal",
         "lastName": "Ashnafa",
         "phonNumde":"0525381648"
     },
-    {
+    {    
+        "picture": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "firstName":"ronit",
         "lastName": "dor",
         "phonNumde":"054223344"
     },
        {
+        "picture": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "firstName":"gila",
         "lastName": "mazor",
         "phonNumde":"044553321"
-    },    {
+    },  
+      {
+        "picture": "https://images.pexels.com/photos/3061415/pexels-photo-3061415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "firstName": "orna",
         "lastName": "shlom",
         "phonNumde":"054112233"
